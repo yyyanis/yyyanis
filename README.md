@@ -1,16 +1,42 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=-+Welcome+to+my+profil+!+-;-+I+am+Yanis+-)](https://git.io/typing-svg)
 
-<!--
-**yyyanis/yyyanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Who am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍🎓 I am a student  
+💻 Future computer engineer  
+🎂 I am 19 
+
+---
+
+## Currently Learning
+
+- HTML
+- CSS
+- JS
+
+---
+
+## Languages
+
+- SQL  
+- C++
+- C 
+
+---
+
+## Tools
+
+- Wireshark 
+- Cisco  
+- MySQL  
+- Git  
+- VirtualBox 
+- Visual Studio Code  
+- Visual Studio
+- Arduino
+- Notion
+
+---
+
+
