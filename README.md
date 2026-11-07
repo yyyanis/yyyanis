@@ -1,47 +1,24 @@
+<div align="center">
 
-<img src="https://github.com/yyyanis/gif/blob/main/d9y6rvp-08b4238f-9618-4491-b5eb-0c44316bd858.gif?raw=true" style="width: 1200px; height: 500px; object-fit: cover;" alt="GIF">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=30&duration=2800&pause=1400&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+yyyanis;Computer+science+engineering+student;Software%2C+data+and+distributed+systems&color=8C8FFF">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=30&duration=2800&pause=1400&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+yyyanis;Computer+science+engineering+student;Software%2C+data+and+distributed+systems&color=2E31D1" alt="Hi, I'm yyyanis">
+</picture>
 
+Computer science engineering student
 
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&lines=-+Welcome+to+my+profil+!+-;-+I+am+Yanis+-)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,cs,py,cpp,js,nodejs,nextjs,docker,nginx,postgres,mongodb,linux,git,powershell,arduino,idea&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,cs,py,cpp,js,nodejs,nextjs,docker,nginx,postgres,mongodb,linux,git,powershell,arduino,idea&perline=8&theme=light" alt="Java, C#, Python, C++, JavaScript, Node.js, Next.js, Docker, Nginx, PostgreSQL, MongoDB, Linux, Git, PowerShell, Arduino, IntelliJ IDEA">
+</picture>
 
+<br><br>
 
-## Who am I?
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyyanis/yyyanis/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/yyyanis/yyyanis/output/snake-light.svg" alt="Contribution graph with a snake eating it">
+</picture>
 
-👨‍🎓 I am a french student  
-💻 Future computer engineer  
-🎂 I am 19 
-
----
-
-## Currently Learning
-
-- HTML
-- CSS
-- JS
-
----
-
-## Languages
-
-- SQL  
-- C++
-- C 
-
----
-
-## Tools
-
-- Wireshark 
-- Cisco  
-- MySQL  
-- Git  
-- VirtualBox 
-- Visual Studio Code  
-- Visual Studio
-- Arduino
-- Notion
-
----
-
-
+</div>
